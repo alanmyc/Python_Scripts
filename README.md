@@ -1,6 +1,6 @@
 # Python_Scripts
 
-Some python scripts
+Some python scripts and general git stuff
 
 # Subheader
 
